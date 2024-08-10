@@ -1,0 +1,3 @@
+[submodule "lib/libcoro"]
+	path = lib/libcoro
+	url = https://github.com/jbaldwin/libcoro
